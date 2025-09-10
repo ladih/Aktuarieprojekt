@@ -1,5 +1,3 @@
-Denna portfolio innehåller olika aktuarieprojekt för att visa mina färdigheter inom försäkringsmatematik och dataanalys.
+Portfolio med olika aktuarieprojekt. Hittills inkluderar:
 
-Hittills inkluderat:
-
-- **Skadetriangelprojekt**: Fiktiv skadetriangel med beräkning av utvecklingsfaktorer, prediktion av framtida skador och visualiseringar med Python (Matplotlib och Seaborn).
+- **Skadetriangelprojekt** – se README i projektmappen för detaljer.
