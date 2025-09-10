@@ -2,3 +2,4 @@ Detta projekt skapar en fiktiv skadetriangel, beräknar utvecklingsfaktorer med 
 
 
 ![Linje diagram över skadetriangel](linjediagram.png)
+Linjediagram som visar skadeutveckling för varje ursprungsår. Svarta prickar markerar predikterade värden.
